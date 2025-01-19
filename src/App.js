@@ -321,8 +321,8 @@ src='https://miro.medium.com/v2/resize:fit:1400/1*Rj8MpTHHRdR7Bu5Gzd82hw.png'
 </div>
 
 <div id='head17'><br/><br/>
-Design outstanding interfaces <br/> with advanced Figma features<br/> in a matter of minutes.<br/>
-<i class="fa-brands fa-instagram"></i><i class="fa-brands fa-google"></i><i class="fa-brands fa-apple"></i><i class="fa-brands fa-facebook"></i>
+<p id='P07'>Design outstanding interfaces <br/> with advanced Figma features<br/> in a matter of minutes.</p><br/>
+<i id='I17' class="fa-brands fa-instagram"></i><i id='I17' class="fa-brands fa-google"></i><i id='I17' class="fa-brands fa-apple"></i><i id='I17' class="fa-brands fa-facebook"></i>
 <h5 id='hed15'>START A BUSINESS</h5>
 <p id='p17'>Features<br/>
 Solutions<br/>
@@ -344,6 +344,7 @@ Our Competition</p>
 <br/>
 <i id='foot' class="fa-solid fa-arrow-up-from-bracket"></i>
 © 2024 Registerkaro. All Rights Reserved.
+
 </div>
       </div>
     
